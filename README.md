@@ -1,4 +1,4 @@
-# Ethereum Voting Dapp
+# Ethereum Voting Dapp - Demo
 Simple Ethereum Voting dapp using Truffle framework
 
 ## Usage
